@@ -1,3 +1,4 @@
+// From problem 1 from this lesson https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/whiteboard-practice-composition
 // Compose a function called paint() and then add it to three different painters. Each painter can only paint with one color. This should be the end result:
 
 // > painter1.paints()
